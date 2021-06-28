@@ -1,9 +1,9 @@
 # IPARK
-The goal of the application is for the user to save the parking location where he parked his car.
+The goal of the application is that the user can save the parking location where he parked his car.
 In addition the application does not have to be for parking car,
 the user can share where he located by adding a photo, description of location, date etc.
 
-In addition, each user can choose in his application settings which user he wants to view and which he does not.
+In addition, each user can choose in his application settings which user he wants to get his locations and which he does not.
 
 <!-- ![Screen Shot 2021-06-28 at 13 12 49](https://user-images.githubusercontent.com/65177459/123625308-4eee8000-d818-11eb-9ae2-328c0fcaabd4.png)
 
