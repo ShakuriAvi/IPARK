@@ -11,7 +11,8 @@ In addition, each user can choose in his application settings which user he want
 <img src="https://user-images.githubusercontent.com/65177459/108538539-9489c200-72e7-11eb-9aa9-6637bc9babc1.jpg" width="350" height="500"> -->
 # LOGIN Page
 after the user Register to system, the user login to application.
-![Login](https://user-images.githubusercontent.com/65177459/123621219-a9391200-d813-11eb-8158-b822d8d841d2.png)
+
+<img src="https://user-images.githubusercontent.com/65177459/123621219-a9391200-d813-11eb-8158-b822d8d841d2.png" width="350" height="500">
 
 # REGISTER Page;
 Every new user needs to register for the system.
