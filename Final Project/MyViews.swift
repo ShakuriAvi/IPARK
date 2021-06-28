@@ -24,7 +24,7 @@ class RoundedButton : UIButton {
     private func setupButton() {
   //      view.addSubview(lp_BTN_login)
      layer.cornerRadius = 12
-        backgroundColor = .darkGray
+        backgroundColor = .systemGray2
         tintColor = .white
      translatesAutoresizingMaskIntoConstraints = false
 //     heightAnchor.constraint(equalToConstant: 50).isActive = true
@@ -71,7 +71,7 @@ class RoundedButton : UIButton {
             private func setupButton() {
           //      view.addSubview(lp_BTN_login)
              layer.cornerRadius = 12
-             backgroundColor = .darkGray
+             backgroundColor = .red
              translatesAutoresizingMaskIntoConstraints = false
              heightAnchor.constraint(equalToConstant: 50).isActive = true
              widthAnchor.constraint(equalToConstant: 235).isActive = true
