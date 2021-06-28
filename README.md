@@ -5,15 +5,17 @@ the user can share where he located by adding a photo, description of location, 
 
 In addition, each user can choose in his application settings which user he wants to view and which he does not.
 
+![Screen Shot 2021-06-28 at 13 12 49](https://user-images.githubusercontent.com/65177459/123625308-4eee8000-d818-11eb-9ae2-328c0fcaabd4.png)
 
 
+<img src="https://user-images.githubusercontent.com/65177459/108538539-9489c200-72e7-11eb-9aa9-6637bc9babc1.jpg" width="350" height="500">
 # LOGIN Page
 after the user Register to system, the user login to application.
 ![Login](https://user-images.githubusercontent.com/65177459/123621219-a9391200-d813-11eb-8158-b822d8d841d2.png)
 
 # REGISTER Page;
 Every new user needs to register for the system.
-![Register](https://user-images.githubusercontent.com/65177459/123621226-ab02d580-d813-11eb-9660-8508becd1b58.png)
+<img src="https://user-images.githubusercontent.com/65177459/123621226-ab02d580-d813-11eb-9660-8508becd1b58.png" width="350" height="500">
 
 # HOME PAGE
 After connecting to the system, this is the page that appears to the user.
@@ -23,7 +25,7 @@ On the page you can see all the locations that the user has saved in the system.
 # NEW PARKING PAGE
 On this page we will save the location of the parking / current located user by description, 
 upload image and date.
-
+![Screen Shot 2021-06-28 at 13 24 36](https://user-images.githubusercontent.com/65177459/123625329-544bca80-d818-11eb-849e-3b78b81fda44.png)
 # SIDE BAR
 When you press the settings button, the following screen is displayed.
 ![SideNav](https://user-images.githubusercontent.com/65177459/123621247-ae965c80-d813-11eb-8651-9fe0a6c5b156.png)
